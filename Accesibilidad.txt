@@ -1,0 +1,15 @@
+Errors:
+	Index: 0;
+	Página Videojuego: 0;
+	¿Quiénes Somos?: 0;
+	Página Contacto: 7;//Los 7 son por que los inpuct no tienen un label
+Contrast Errors:
+	Index: 2;//Los botones de aceptar-rechazar cookies
+	Página Videojuego: 3;//Los dos titulos y en el botón de comprar
+	¿Quiénes Somos?:1;//El titulo
+	Página Contacto:1;//El titulo
+Alerts:
+	Index: 2;//Falta un h1, (El texto del logo es muy simple)**
+	Página Videojuego: 10;//6 de texto justificado, otra por pasar de h1 a h3 y dos por que el alt de las imagenes in-game es el mismo, **
+	¿Quiénes Somos?: 11;//10 por texto justificado, **
+	Página Contacto: 7;//6 por texto justificado, **
