@@ -69,7 +69,6 @@ p {
     flex-flow: column wrap;
     background-color: rgba(192, 192, 192, 0.5);
     padding: 5%;
-    text-align: left;
     border: 1px solid black;
     border-left: 5px solid black;
     border-radius: 0em 1em 1em 0em;
@@ -180,7 +179,6 @@ section:hover {
     align-items: center;
     background-color: rgba(192, 192, 192, 0.5);
     margin-left: 5%;
-    text-align: justify;
     border: 1px solid black;
     border-left: 5px solid black;
     border-radius: 0em 1em 1em 0em;
