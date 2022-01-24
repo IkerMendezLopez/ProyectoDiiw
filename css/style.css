@@ -13,7 +13,7 @@
     letter-spacing: .2rem;
     margin-top: 1rem;
     color: white;
-    -webkit-text-stroke: .1px black;
+    -webkit-text-stroke: .8px black;
 }
 
 body {
@@ -36,7 +36,7 @@ h3 {
     text-align: center;
     margin-bottom: 1rem;
     color: white;
-    -webkit-text-stroke: .1px black;
+    -webkit-text-stroke: .8px black;
 }
 
 p {
