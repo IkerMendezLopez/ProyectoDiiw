@@ -2,7 +2,7 @@ Errors:
 	Index: 0;
 	Página Videojuego: 0;
 	¿Quiénes Somos?: 0;
-	Página Contacto: 7;//Los 7 son por que los inpuct no tienen un label
+	Página Contacto: 7;//Los 7 son por que los input no tienen un label
 Contrast Errors:
 	Index: 2;//Los botones de aceptar-rechazar cookies
 	Página Videojuego: 3;//Los dos titulos y en el botón de comprar
