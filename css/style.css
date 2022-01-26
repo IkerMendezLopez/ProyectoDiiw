@@ -143,23 +143,23 @@ li.paginaactual {
 
 /* Imagenes */
 .stardew {
-    background-image: url('../img/stardewValleyFondo.jpg');
+    background-image: url('../img/stardewValleyFondo.webp');
 }
 
 .cup {
-    background-image: url('../img/cupHeadFondo.jpg');
+    background-image: url('../img/cupHeadFondo.webp');
 }
 
 .hades {
-    background-image: url('../img/hadesFondo.jpg');
+    background-image: url('../img/hadesFondo.webp');
 }
 
 .under {
-    background-image: url('../img/undertaleFondo.jpg');
+    background-image: url('../img/undertaleFondo.webp');
 }
 
 .hollow {
-    background-image: url('../img/hollowKnightFondo.jpg');
+    background-image: url('../img/hollowKnightFondo.webp');
 }
 
 
